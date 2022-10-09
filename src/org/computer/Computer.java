@@ -3,7 +3,7 @@ package org.computer;
 public class Computer  {
 	
 	public void computerModel() {
-		System.out.println("Computer model : Asus");
+		System.out.println("Compu model : Asus");
 	}
    
 	
